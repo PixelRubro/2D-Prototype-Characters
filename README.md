@@ -1,2 +1,2 @@
-# 2D-Prototype-Characters
-2D sprites for prototyping
+# Pixel Art Prototype Characters
+2D pixel art characters for prototyping
