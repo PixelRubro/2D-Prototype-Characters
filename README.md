@@ -1,2 +1,2 @@
-# 2D-Prototype-Sprites
+# 2D-Prototype-Characters
 2D sprites for prototyping
